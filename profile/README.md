@@ -8,9 +8,9 @@ We support students and researchers in achieving their academic goals. We have a
 
 #### 🌐 We embrace Open Source
 
-At the University Library, we promote open-source software and FAIR software which are central to Open Science. We acknowledge the benefit to students and researchers, fostering innovation, accessibility, and transparency. Very humble contributions but, courseboks like [Qualitative FAIR data](https://github.com/MaastrichtU-Library/qualitative-FAIR-data/tree/gh-pages) or add-ons like [Omeka S theme UM](https://github.com/MaastrichtU-Library/omekas-theme-um) are publicly available.
+At the University Library, we promote open-source software and FAIR software which are central to Open Science. We acknowledge the benefit to students and researchers, fostering innovation, accessibility, and transparency. Quite humble contributions but, resources like [DataverseNL Analysis](https://github.com/MaastrichtU-Library/dataverse-analysis) or trainings such as the [Qualitative FAIR data](https://maastrichtu-library.github.io/qualitative-FAIR-data/), or add-ons like [Omeka S theme UM](https://github.com/MaastrichtU-Library/omekas-theme-um) are publicly available.
 
-See the [highlights of 2022!](https://library.maastrichtuniversity.nl/about-the-library/annual-reports/highlights-2022/)
+See the [highlights of 2024!](https://library.maastrichtuniversity.nl/about-the-library/annual-reports/highlights-2024/)
 
 ***
 
@@ -24,5 +24,5 @@ See the [highlights of 2022!](https://library.maastrichtuniversity.nl/about-the-
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://library.maastrichtuniversity.nl/"><img src="https://img.shields.io/badge/website--_.svg?label?label=Website&style=social&logo=qiskit" alt="Learn more"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="mailto:rdm-services@maastrichtuniversity.nl"><img src="https://img.shields.io/badge/email--_.svg?label?label=Email&style=social&logo=minutemailer" alt="Email us"></a>
+	<a href="mailto:rcs-ub@maastrichtuniversity.nl"><img src="https://img.shields.io/badge/email--_.svg?label?label=Email&style=social&logo=minutemailer" alt="Email us"></a>
 </div>

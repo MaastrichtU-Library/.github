@@ -8,9 +8,9 @@ We support students and researchers in achieving their academic goals. We have a
 
 #### 🌐 We embrace Open Source
 
-At the University Library, we promote open-source software and FAIR software which are central to Open Science. We acknowledge the benefit to students and researchers, fostering innovation, accessibility, and transparency. Quite humble contributions but, resources like [DataverseNL Analysis](https://github.com/MaastrichtU-Library/dataverse-analysis) or trainings such as the [Qualitative FAIR data](https://maastrichtu-library.github.io/qualitative-FAIR-data/), or add-ons like [Omeka S theme UM](https://github.com/MaastrichtU-Library/omekas-theme-um) are publicly available.
+At the University Library, we promote open-source software and FAIR software which are central to Open Science. We acknowledge the benefit to students and researchers, fostering innovation, accessibility, and transparency. Quite humble contributions but, resources like [DataverseNL Analysis](https://github.com/MaastrichtU-Library/dataverse-analysis) or trainings such as the [Qualitative FAIR data](https://maastrichtu-library.github.io/qualitative-FAIR-data/), or add-ons like [Omeka S theme UM](https://github.com/MaastrichtU-Library/omekas-theme-um) are publicly available. Also, check out the projects from [Maastricht University Press](https://github.com/orgs/MaastrichtUniversityPress/repositories)
 
-See the [highlights of 2024!](https://library.maastrichtuniversity.nl/about-the-library/annual-reports/highlights-2024/)
+See the [highlights of 2025!](https://library.maastrichtuniversity.nl/about-the-library/annual-reports/highlights-2025/)
 
 ***
 
